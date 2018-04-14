@@ -1,3 +1,6 @@
+
+使用fanhengxz的github账号在master文件中加了这一行
+
 在master版本写了一行代码
 在公司的masger主干上加了一行代码
 在公司的master主干上加了第二行代码
